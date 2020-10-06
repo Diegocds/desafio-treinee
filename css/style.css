@@ -1,0 +1,114 @@
+body {
+    background: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 100%;
+}
+
+.content {
+    margin: 0 5%;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-between {
+    justify-content: space-between;
+}
+
+header {
+    margin: 30px 5%;
+}
+
+.header_nav li {
+    display: inline;
+}
+
+.header_nav a {
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+}
+
+.container_collaboration {
+    width: 100%
+}
+
+.container_collaboration img {
+    width: 90%;
+    height: 100%;
+}
+
+.container_text {
+    width: 40%;
+    height: auto;
+    margin-top: 100px;
+}
+
+.container_text h1 {
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.container_text p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 50px;
+}
+
+.container_text a {
+    padding: 20px 24px;
+    width: 235px;
+    height: 64px;
+    border-radius: 8px;
+    background: #71A894;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.container_elements {
+    padding-top: 50px;
+}
+
+.container_cards h2 {
+    width: 80%;
+    height: auto;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.container_cards p {
+    width: 60%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.cards {
+    width: 30%;
+    height: auto;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin: 10px;
+    padding: 50px 0 20px;
+}
+
+.cards h4 {
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.cads p {
+    font-size: 18px;
+    line-height: 28px;
+}
